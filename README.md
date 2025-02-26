@@ -81,13 +81,14 @@ Olist connects small and medium-sized businesses in Brazil to a vast network of 
 
 ## 1.2 Problem Statement
 
-Without segmentation, marketing campaigns are generic and miss opportunities for targeting specific customer groups. The challenge is to find the optimal segmentation strategy to improve customer engagement and conversion rates.
+Understanding customer behavior is crucial for optimizing marketing efforts. By segmenting customers based on key behaviors, such as frequency, recency, and monetary value of their purchases (RFM), Olist can target specific customer groups with personalized offers, improving customer satisfaction and retention. The challenge is to segment customers effectively in order to provide targeted recommendations for each group.
 
 ## 1.3 Goals
 
-The goal of this project is to:
-* Segment customers into distinct groups using RFM analysis.
-* Provide actionable insights for marketing teams to create personalized campaigns, leading to improved customer satisfaction and retention.
+The goal of this project is to segment customers into meaningful groups using the RFM model based on their transactional behavior. By clustering customers into distinct segments based on Recency, Frequency, and Monetary values, we aim to:
+* Segment customers into distinct groups based on their RFM scores (e.g., recent, frequent, high-spending customers).
+* Identify key customer segments that show different engagement patterns and behaviors, such as loyal customers, at-risk customers, and potential high-value customers.
+* Provide actionable insights for marketing teams to design personalized campaigns, loyalty programs, and promotional strategies that improve customer satisfaction and increase retention.
 
 # 2. Data Cleaning and Understanding
 
