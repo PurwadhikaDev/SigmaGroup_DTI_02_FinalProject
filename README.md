@@ -203,7 +203,7 @@ The customer segmentation analysis enables Olist to:
 
 ## Data Overview
 * [Tableau Dashboard](https://public.tableau.com/app/profile/muchammad.fahd.ishamuddin/viz/Oliste-commerceDashboard/Story1?publish=yes)
-* [Streamlit](https://sigmadtiolist.streamlit.app/) Batch predict : rfm_test1.csv, segmentation grid : rfm_df1.csv
+* [Streamlit](https://sigmadtiolist.streamlit.app/) (Batch predict : rfm_test1.csv) (segmentation grid : rfm_df1.csv)
 ## Reference
 * [Dataset Source](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 * [GeoJSON Source](https://github.com/codeforgermany/click_that_hood/blob/main/public/data/brazil-states.geojson)
