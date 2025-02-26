@@ -1,4 +1,4 @@
-![image](tableau2.png)# Olist Customer Segmentation Analysis by SigmaGroup_DTI_02
+# Olist Customer Segmentation Analysis by SigmaGroup_DTI_02
 
 # Introduction
 
