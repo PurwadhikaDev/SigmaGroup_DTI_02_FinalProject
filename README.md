@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project, completed as the final project for our data science program at Purwadhika Digital School, focuses on customer segmentation for Olist, a Brazilian e-commerce platform. The team consists of Muchammad Fahd Ishamuddin, Saufa Rahmi Maulida, and Vina Fasya Kartamanah who collaborated to segment Olist's customers using RFM (Recency, Frequency, Monetary) analysis. The goal of this project was to provide actionable insights by analyzing customer behavior and enhancing marketing strategies to improve customer retention and satisfaction.
+This project, completed as the final project for our data science program at Purwadhika Digital School, focuses on customer segmentation for Olist, a Brazilian e-commerce platform. The team consists of Muchammad Fahd Ishamuddin, Saufa Rahmi Maulida, and Vina Fasya Kartamanah who collaborated to segment Olist's customers using RFM (Recency, Frequency, Monetary) analysis.
 
 # Dataset Context
 
@@ -81,13 +81,13 @@ Olist connects small and medium-sized businesses in Brazil to a vast network of 
 
 ## 1.2 Problem Statement
 
-Without segmentation, marketing campaigns are generic and miss opportunities for targeting specific customer groups. The challenge is to find the optimal segmentation strategy to improve customer engagement and conversion rates.
+Without segmentation, marketing campaigns are generic and miss opportunities for targeting specific customer groups. The challenge is to find the optimal segmentation strategy to improve customer engagement and conversion rates.
 
 ## 1.3 Goals
 
 The goal of this project is to:
 * Segment customers into distinct groups using RFM analysis.
-* Provide actionable insights for marketing teams to create personalized campaigns, leading to improved customer satisfaction and retention.
+* Provide actionable insights for marketing teams to create personalized campaigns, leading to improved customer satisfaction and retention.
 
 # 2. Data Cleaning and Understanding
 
